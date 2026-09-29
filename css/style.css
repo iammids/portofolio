@@ -336,6 +336,7 @@ p{
 
 .about-text{
     max-width: 650px;
+    text-align: justify;
 }
 
 .about-text p{
