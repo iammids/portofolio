@@ -210,7 +210,7 @@ p{
 
 .hero {
     min-height: calc(100vh - 70px);
-    padding: 0;
+    padding-top: 20px;
 }
 
 .hero > .container {
